@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Hossam Abosaleh</h1>
-<h3 align="center">A passionate IOS developer from Egypt</h3>
+## Hi, I'm Hossam
 
-<p align="left"> <a href="https://twitter.com/hossamabosaleh" target="blank"><img src="https://img.shields.io/twitter/follow/hossamabosaleh?logo=twitter&style=for-the-badge" alt="hossamabosaleh" /></a> </p>
+Mobile developer from Cairo. About 4 years of work, mostly Swift, and Flutter since 2025.
 
-- 🌱 I’m currently learning **SwiftUI,Rxswift**
+### iOS
+- Swift, SwiftUI, UIKit, SwiftData, Swift Concurrency
+- Worked on Lebara KSA (telecom app, 1M+ downloads): eSIM activation, billing and payments
+- Shipped 6+ App Store apps at my first job, like Al-Rajhi and Seas
+- Latest side project: Prova, a SwiftUI app that tells you if clothes will fit, in Arabic and English
 
-- 📫 How to reach me **hossamabosaleh7@gmail.com**
+### Flutter
+- Flutter, Dart, Bloc, Clean Architecture, go_router, Firebase
+- Since late 2025 I've been building a government auction app for Saudi Arabia. It's live on iOS and Android, and I've worked across most of the bidder side, from browsing and bidding to payments, notifications and support.
+- Most of the hard work is behind the screens: navigation shared by two services where every tab keeps its own history, auction screens that update live, payment flows that must stay correct, guest and business accounts with different permissions, and an Arabic-first layout.
+- I also set up the CI/CD and release process, and the tests and checks that run on every PR.
+- Before that, I built statistics screens with fl_chart for a Ministry of Municipalities and Housing app.
 
-- 📄 Know about my experiences [Hossam Mohamed Abosaleh](https://drive.google.com/file/d/1L1mXhffuNbQvZs9iBypwSN2mB4Slqrqx/view?usp=share_link)
+### How I use AI
+I write most first drafts with Claude Code, then check them with tests and code review.
+On my current project I made a set of Claude Code commands the team uses to plan a story, build it, open the PR and ship a test build. I also added a step where a second model reviews each plan against the real code before anyone writes it.
+[Spotter](https://github.com/HossamAbosaleh/spotter) is a small open source app I built this way, with 379 tests.
 
-- ⚡ Fun fact **I love Football**
+### Projects
+- [Spotter](https://github.com/HossamAbosaleh/spotter): workout tracker web app, React and TypeScript, built with AI and checked by tests
+- [Ratatouille](https://github.com/HossamAbosaleh/Ratatouille): iOS recipe finder with search, diet filters and paging (2023)
+- [SportApp](https://github.com/HossamAbosaleh/SportApp): iOS sports leagues browser, MVVM with Core Data favorites (2022)
+- [NEWZIA](https://github.com/HossamAbosaleh/NEWZIA): iOS news reader with search and headlines by language (2023)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hossamabosaleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hossamabosaleh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abosaleh44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abosaleh44" height="30" width="40" /></a>
-<a href="https://fb.com/abosaleh44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abosaleh44" height="30" width="40" /></a>
-<a href="https://instagram.com/abosaleh.44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abosaleh.44" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Contact
+[LinkedIn](https://www.linkedin.com/in/abosaleh44) · hossamabosaleh7@gmail.com
